@@ -1,1 +1,1 @@
-# Stats
+Functions for basic descriptive statistic
